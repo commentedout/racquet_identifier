@@ -1,0 +1,27 @@
+# Ignore the entire images and test_images folders
+images/
+test_images/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+*.env
+.env/
+venv/
+env/
+
+# VS Code settings
+.vscode/
+
+# Data or model artifacts
+*.h5
+*.pkl
+*.npy
+*.pt
+*.ckpt
